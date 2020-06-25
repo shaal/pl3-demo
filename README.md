@@ -1,4 +1,4 @@
-# PatternLab3 Demo
+# PatternLab3 (Twig Demo)
 
 ### Install the project
 `yarn`
