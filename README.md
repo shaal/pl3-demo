@@ -1,4 +1,4 @@
-# pl3-demo
+# PatternLab3 Demo
 
 ### Install the project
 `yarn`
